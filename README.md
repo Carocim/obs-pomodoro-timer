@@ -43,7 +43,7 @@ Focus
 5. Use the **Start/Stop** and **Pause/Resume** buttons to control the timer.
 
 
-![OBS Pomodoro Timer in Action](images/Pomodoro.png)
+![OBS Pomodoro Timer] ([images/Pomodoro.png](https://github.com/Carocim/obs-pomodoro-timer/blob/6064e3c33d6f902126aee02f8bc0c305e70d810f/Pomodoro.png))
 
 ---
 
