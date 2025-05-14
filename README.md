@@ -42,6 +42,15 @@ Focus
 
 5. Use the **Start/Stop** and **Pause/Resume** buttons to control the timer.
 
+
+![OBS Pomodoro Timer in Action](images/Pomodoro.png)
+
+---
+
+## Customize Your Timer
+
+Once you've added the Pomodoro timer to the Text (GDI+) source in OBS, you can **fully customize** the look of the timer.
+
 ---
 
 ## Tested On
@@ -50,7 +59,7 @@ Focus
 
 ---
 
-Made with ❤️ for productivity 🍅
+
 
 
 
