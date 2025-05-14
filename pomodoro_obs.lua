@@ -13,7 +13,7 @@ time_left = 0
 display_timer = 0
 
 function script_description()
-    return "Pomodoro Timer for OBS with session tracking, break messages, and GDI+ Text display.\nBy ChatGPT"
+    return "Pomodoro Timer for OBS with session tracking, break messages, and GDI+ Text display."
 end
 
 function script_properties()
