@@ -29,7 +29,7 @@ Focus
 2. Open **`Tools > Scripts`** in OBS
 
 3. Click the **“+” button** and load the script file:
-pomodoro_obs.lua
+[**pomodoro_obs.lua**](https://raw.githubusercontent.com/Carocim/obs-pomodoro-timer/refs/heads/main/pomodoro_obs.lua)
 
 4. In the script settings panel:
 - Select the **Text Source** you created earlier (e.g., `PomodoroText`)
