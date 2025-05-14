@@ -12,7 +12,10 @@ A Lua-based Pomodoro timer for OBS Studio (tested on v31.0.3), designed to displ
   - Start message
   - Break message
 - Displays timer and session tracker like this:
+
+  
 ![Pomodoro Timer Screenshot](https://github.com/Carocim/obs-pomodoro-timer/blob/df16af205db1032ade31e6da36018c7b37ce6520/Pomodoro.png)
+
 
 - Session count updates only **after the break ends**
 - Start and Break messages display for 2 seconds
