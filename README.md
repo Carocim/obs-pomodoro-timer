@@ -3,7 +3,7 @@
 A Lua-based Pomodoro timer for OBS Studio (tested on v31.0.3), designed to display countdowns and session info via a GDI+ Text source.
 
 > 🆕 **Always check the [Releases](https://github.com/Carocim/obs-pomodoro-timer/releases)** for the latest updates.  
-> 💬 You can also follow the discussion or share feedback via the official post on the [OBS Forums]([https://obsproject.com/forum/resources/](https://obsproject.com/forum/resources/pomodoro-timer-with-sound-alerts-2025.2178/))
+> 💬 You can also follow the discussion or share feedback via the official post on the [OBS Forums]([https://obsproject.com/forum/resources/](https://obsproject.com/forum/resources/pomodoro-timer-with-sound-alerts-2025.2178/)
 
 ## Features
 
